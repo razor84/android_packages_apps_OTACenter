@@ -30,7 +30,7 @@
     <string name="device_info_title">Cihaz Bilgileri</string>
     <string name="up_to_date_title">Sisteminiz güncel</string>
     <string name="no_data_title">Mevcut veri bağlantısı yok</string>
-    <string name="error_reading_title">Cannot read properties</string>
+    <string name="error_reading_title">Özellikler okunamıyor</string>
     <string name="update_file_title">Güncelleştirme:</string>
     <string name="reboot">Hepsi tamam! Şimdi cihazınızı yeniden başlatın.</string>
     <string name="reboot_ok">Yeniden başlat</string>
