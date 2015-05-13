@@ -69,6 +69,17 @@
     <string name="short_cut_download_gapps_title">Gapps</string>
     <string name="short_cut_download_gapps_summary">En son Gapps paketini indirin</string>
 
+    <!-- URL's -->
+    <string name="download_url">http://euphoria-os.ninja</string>
+    <string name="changelog_url">http://fs1.androidfilesharing.com/ota/changelog.txt</string>
+    <string name="xda_url">http://forum.xda-developers.com/usercp.php</string>
+    <string name="gapps_url">http://goo.gl/4gG3MH</string>
+    <string name="gapps_url_kitkat">http://goo.gl/KGcni2</string>
+
+    <!-- Update checker -->
+    <string name="xml_url_kitkat">http://fs1.androidfilesharing.com/ota/ota_file.xml</string>
+    <string name="notification_message">ROM güncellemesi mevcut</string>
+    
     <!-- About -->
     <string name="googleplus_title">Google+</string>
     <string name="googleplus_summary">Google+ topluluğunu ziyaret edin</string>
