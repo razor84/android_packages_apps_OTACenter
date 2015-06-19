@@ -17,7 +17,7 @@
 
 <resources>
     <!-- Main strings -->
-    <string name="app_name">OTA Center</string>
+    <string name="app_name">OTA Merkezi</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="device_title">Cihaz</string>
     <string name="device_name_title">Adı:</string>
@@ -30,7 +30,7 @@
     <string name="device_info_title">Cihaz Bilgileri</string>
     <string name="up_to_date_title">Sisteminiz güncel</string>
     <string name="no_data_title">Mevcut veri bağlantısı yok</string>
-    <string name="error_reading_title">Cannot read properties</string>
+    <string name="error_reading_title">Özellikler okunamıyor</string>
     <string name="update_file_title">Güncelleştirme:</string>
     <string name="reboot">Hepsi tamam! Şimdi cihazınızı yeniden başlatın.</string>
     <string name="reboot_ok">Yeniden başlat</string>
@@ -49,7 +49,7 @@
     <!-- Error messages -->
     <string name="system_prop_error">Sistem özellikleri okunamıyor</string>
     <string name="bad_url">İndirmek için yer açılamıyor. Cihazınızın sorumlusuna bildiriniz!</string>
-    <string name="menu_update">Şimdi güncellemeri kontrol edin</string>
+    <string name="menu_update">Şimdi güncellemeleri kontrol edin</string>
     <string name="toast_text">Güncellemeler aranıyor, lütfen bekleyin.</string>
     <string name="toast_no_data_text">Veri bağlantısı mevcut değil. Lütfen açın</string>
 
@@ -68,7 +68,18 @@
     <string name="short_cut_download_uptodate_summary">En son sürümü indirin</string>
     <string name="short_cut_download_gapps_title">Gapps</string>
     <string name="short_cut_download_gapps_summary">En son Gapps paketini indirin</string>
+       
+    <!-- URL's -->
+    <string name="download_url">http://euphoria-os.ninja</string>
+    <string name="changelog_url">http://fs1.androidfilesharing.com/ota/changelog.txt</string>
+    <string name="xda_url">http://forum.xda-developers.com/usercp.php</string>
+    <string name="gapps_url">http://goo.gl/4gG3MH</string>
+    <string name="gapps_url_kitkat">http://goo.gl/KGcni2</string>
 
+    <!-- Update checker -->
+    <string name="xml_url_kitkat">http://fs1.androidfilesharing.com/ota/ota_file.xml</string>
+    <string name="notification_message">ROM güncellemesi mevcut</string>
+    
     <!-- About -->
     <string name="googleplus_title">Google+</string>
     <string name="googleplus_summary">Google+ topluluğunu ziyaret edin</string>
@@ -82,20 +93,20 @@
     <string name="donate_summary">Bağış</string>
     <string name="source_title">Kaynak</string>
     <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>OTACenter</b> Euphoria-OS araçlar &amp; bilgi için daha iyi deneyiminize yardımcı olmak için sağlamaktadır. ROM u yeni sürüme yükseltme <b>OTACenter</b>.</string>
+    <string name="center_summary"><b>OTACenter</b> Euphoria-OS araçlar &amp; bilgi daha iyi deneyiminize yardımcı olmak için sağlamaktadır. ROM u yeni sürüme yükseltme <b>OTACenter</b>.</string>
     <string name="bugreport_title">Hata raporu</string>
     <string name="bugreport_summary">Tam bir hata raporu oluşturma</string>
     <string name="report_infosuccess">.</string>
     <string name="report_infofail">Bir sistem raporu düzenlendi, Euphoria-OS bunu sağlayacak. SD-Kart dizininde \"Hata raporları\" adında Zip dosyasını bulabilirsiniz.</string>
 
     <string name="about_home_url"><a href="http://mahdi-rom.com/">Euphoria-OS</a></string>
-    <string name="about_ota">OTA Merkezi kolayca ROM u yönetmenize olanak sağlar!</string>
+    <string name="about_ota">OTA Merkezi ROM u kolayca yönetmenize olanak sağlar!</string>
     <string name="about_copyright">\u00A9 Telif Slimroms 2013 olarak değişikliğe uğratılmış Euphoria-OS</string>
     <string name="about_version">OTA Merkezi 2.0</string>
     <string name="about_contact">Bize ulaşın Mahdi.Rom@gmail.com</string>
     <string name="about_contact_text">Ne düşündüğünüzü bize söyleyin ya da bize bir hata veya sorun hakkında bildirin</string>
     <string name="about_license">Açık kaynak lisansları</string>
-    <string name="about_license_text">OTA Merkezi uyglaması:</string>
+    <string name="about_license_text">OTA Merkezi uygulaması:</string>
     <string name="about_license_url"><a href="http://otaslim.slimroms.net/license.htm">gpl(2)</a></string>
 
     <!-- Sizer  -->
