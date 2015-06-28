@@ -41,7 +41,7 @@
     <string name="settings_title">OTA Settings</string>    
     <string name="update_interval_title">Intervallo automatico di ricerca aggiornamenti</string>
     <string name="update_interval_summary">Setta un intervallo automatico per la ricerca di aggiornamenti</string>
-    <string name="update_interval_day">Ongi 24 ore</string>
+    <string name="update_interval_day">Ogni 24 ore</string>
     <string name="update_interval_half_day">Ogni 12 ore</string>
     <string name="update_interval_hour">Ogni ora</string>
     <string name="update_interval_disable">Disabilita</string>
